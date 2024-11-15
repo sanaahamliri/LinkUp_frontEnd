@@ -2,7 +2,8 @@ import React from 'react';
 
 const Conversation = () => {
   return (
-    <div className="flex-1 bg-white p-4 overflow-auto">
+
+    <div className="flex-1 p-4 podding bg-gray-500 bg-opacity-30 overflow-auto w-full">
       <h2 className="text-xl font-bold mb-4">Conversation</h2>
       
       <div className="flex mb-4">
